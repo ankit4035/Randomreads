@@ -1,7 +1,7 @@
 # Randomreads
 Perl script to extract random "n" number of reads from Fastq files. 
 
-Requires pullseq to be installed (https://github.com/bcthomas/pullseq.git) installed in the system.
+Requires pullseq (https://github.com/bcthomas/pullseq.git) to be installed  in the system. 
 
 Can be used for Illumina paired-reads or single-end reads.
 
